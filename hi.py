@@ -37,7 +37,7 @@ st.text('31요거트 / 그린티 / 레인보우 샤베트 / 민트 초콜릿 칩
 '이상한 나라의 솜사탕')
 
 st.subheader('4. SPC')
-img = Image.open('spclogo.PNG')
+img = Image.open('spclogo.png')
 st.image(img, width=100)
 st.markdown('배스킨라빈스는 대한민국 제빵업계의 선두주자인 SPC계열 업체이다.')
 st.write('')
